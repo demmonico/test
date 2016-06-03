@@ -1,0 +1,12 @@
+{
+    "name": "demmonico/test",
+    "description": "mytest",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "wepay.php"
+        ]
+    }
+}
