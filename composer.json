@@ -5,8 +5,8 @@
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
     "autoload": {
-        "classmap": [
-            "wepay.php"
-        ]
+        "psr-0": {
+            "Test": "/"
+        }
     }
 }
