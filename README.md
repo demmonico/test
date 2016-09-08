@@ -1,7 +1,7 @@
 # test
 
 - [link to test1](#best-test1)
-- [link to test2](#worse-test2)
+- [link to test2](#wor-se-test2)
 
 ##Best test1
 cvbcvb
@@ -113,7 +113,7 @@ v
 
 
 
-###Worse test2
+###Wor-se test2
 
 
 test
